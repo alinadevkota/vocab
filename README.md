@@ -1,2 +1,2 @@
 # vocab
-A small python program to recall learned words
+A small python program to recall learned words.
